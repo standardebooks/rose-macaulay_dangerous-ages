@@ -29,45 +29,47 @@
 		<dc:title id="title">Dangerous Ages</dc:title>
 		<meta property="file-as" refines="#title">Dangerous Ages</meta>
 		<dc:subject id="subject-1">Fiction</dc:subject>
+		<dc:subject id="subject-2">Man-woman relationships</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85048050</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh92001504</meta>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">Four women seek to obtain personal fulfillment through different means, being influenced by their individual personalities and the challenges they’ve faced in their lives.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Neville Bandish has become aimless after fulfilling her role as a loving wife and mother of two children. After celebrating her forty-third birthday, she decides to enroll in an university and realize her dream of earning a medical degree, both as a way to leave behind the confines of her home and to use her knowledge and talents before they start to deteriorate with each passing year.&lt;/p&gt;
+			&lt;p&gt;Neville’s story allows the reader to also take a glimpse into the lives of Mrs. Hilary, Neville’s widowed mother who is coasting through life doing housework and helping the local parish, Neville’s sister Nan, a writer who thinks of settling down with her friend Barry Briscoe but hasn’t found the courage to accept his offer, and Neville’s daughter Gerda, a young rebel that has found refuge in idealism and opposing traditional societal values, but who also has fallen in love with a man who holds a worldview that runs contrary to her own.&lt;/p&gt;
+			&lt;p&gt;In &lt;i&gt;Dangerous Ages&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/rose-macauley"&gt;Rose Macauley&lt;/a&gt; provides a satirical look at societal norms, psychoanalysis, love and gender roles in the 1920s through the eyes of four generations of women that belong to the Bendish family, who question the mundane nature of their shared homelife and how their respective goals, frustrations and ways to achieve independence and happiness gradually change depending on each person’s priorities, the stage of life they’re in as well as the expectations associated with the position they hold within a family unit and society in general.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/16799</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/cu31924013657907</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/rose-macauley_dangerous-ages</meta>
 		<dc:creator id="author">Rose Macauley</dc:creator>
 		<meta property="file-as" refines="#author">Macauley, Rose</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Emilie Rose Macauley</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Rose_Macauley</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n50041972</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50041972</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Frederick Carl Frieseke</dc:contributor>
+		<meta property="file-as" refines="#artist">Frieseke, Frederick Carl</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Frederick_Carl_Frieseke</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nr91016925</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">E-text prepared by Suzanne Shell</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<dc:contributor id="transcriber-1">Suzanne Shell</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Shell, Suzanne</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Mary Meehan</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-2">Meehan, Mary</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
 		<meta property="se:url.homepage" refines="#transcriber-3">https://pgdp.net</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Sergio Tellez</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Tellez, Sergio</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
