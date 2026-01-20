@@ -48,7 +48,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/16799</dc:source>
 		<dc:source>https://archive.org/details/cu31924013657907</dc:source>
-		<meta property="se:word-count">65860</meta>
+		<meta property="se:word-count">64247</meta>
 		<meta property="se:reading-ease.flesch">74.08</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/rose-macaulay_dangerous-ages</meta>
 		<dc:creator id="author">Rose Macaulay</dc:creator>
