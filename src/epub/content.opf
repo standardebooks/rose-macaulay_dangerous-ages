@@ -40,7 +40,7 @@
 		<meta id="collection" property="belongs-to-collection">Prix Femina—Vie Heureuse Winners</meta>
 		<meta property="collection-type" refines="#collection">series</meta>
 		<meta property="group-position" refines="#collection">3</meta>
-		<dc:abstract>Four women seek to obtain personal fulfillment through different means.</dc:abstract>
+		<meta property="schema:abstract">Four women seek to obtain personal fulfillment through different means.</meta>
 		<dc:description>
 			&lt;p&gt;Neville Bendish is left aimless after fulfilling her role as a loving wife and mother of two children. After celebrating her forty-third birthday, she decides to enroll at a university to realize her dream of earning a medical degree, both as a way to leave behind the confines of her home and to use her knowledge and talents before they start to deteriorate with each passing year.&lt;/p&gt;
 			&lt;p&gt;Neville’s story also allows the reader to take a glimpse into the lives of Mrs. Hilary, Neville’s widowed mother who is coasting through life doing housework and helping the local parish; Neville’s sister Nan, a writer who thinks of settling down with her friend Barry Briscoe, but hasn’t found the courage to accept his offer; and Neville’s daughter Gerda, a young rebel that has found refuge in idealism and opposing traditional societal values, but who also has fallen in love with a man who holds a worldview that runs contrary to her own.&lt;/p&gt;
